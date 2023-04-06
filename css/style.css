@@ -326,6 +326,7 @@ http://www.templatemo.com/tm-516-known
     background-attachment: local;
     background-size: cover;
     height: 650px;
+   
   }
   
   .caption h3 a { color: #FFF; }
@@ -334,6 +335,7 @@ http://www.templatemo.com/tm-516-known
   .home-slider .item-first {
     background-image: url(../images/slider-image1.jpg);
 	background-position: center;
+  
   }
 
   .home-slider .item-second {
