@@ -24,6 +24,7 @@
 
                     <ul class="nav navbar-nav navbar-right">
                          <li><a href="tel:+917058402300"><i class="fa fa-phone"></i> +91 7058402300</a></li>
+                         <li><a href="./dashboard"><i class="fa fa-lock"></i>Admin</a></li>
                     </ul>
                </div>
 

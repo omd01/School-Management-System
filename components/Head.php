@@ -1,5 +1,5 @@
 <head>
-     <title>Known - Education HTML Template</title>
+     <title>Shree Saraswati Bhuvan High School Jalna.</title>
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
      <meta name="description" content="">
