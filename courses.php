@@ -14,7 +14,7 @@
 
               <div class="col-md-12 col-sm-12">
                    <div class="section-title">
-                        <h2>Popular Courses <small>Upgrade your skills with newest courses</small></h2>
+                        <h2>All Classes <small>Available courses in the S.S.H.j</small></h2>
                    </div>
 
                    <div class="owl-carousel owl-theme owl-courses">
@@ -23,28 +23,20 @@
                                   <div class="courses-thumb">
                                        <div class="courses-top">
                                             <div class="courses-image">
-                                                 <img src="./images/courses-image1.jpg" class="img-responsive" alt="">
+                                                 <img src="./images/lkg.jpg" class="img-responsive" alt="">
                                             </div>
                                             <div class="courses-date">
-                                                 <span><i class="fa fa-calendar"></i> 12 / 7 / 2018</span>
-                                                 <span><i class="fa fa-clock-o"></i> 7 Hours</span>
+                                                 <span><i class="fa fa-calendar"></i> 12 / 7 / 2023</span>
+                                                 <span><i class="fa fa-clock-o"></i> 3 Years</span>
                                             </div>
                                        </div>
 
                                        <div class="courses-detail">
-                                            <h3><a href="#">Social Media Management</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                            <h3><a href="#">Lkg , Ukg </a></h3>
+                                            <p>Childrens between 3yr old to 6th year</p>
                                        </div>
 
-                                       <div class="courses-info">
-                                            <div class="courses-author">
-                                                 <img src="./images/author-image1.jpg" class="img-responsive" alt="">
-                                                 <span>Mark Wilson</span>
-                                            </div>
-                                            <div class="courses-price">
-                                                 <a href="#"><span>USD 25</span></a>
-                                            </div>
-                                       </div>
+                                      
                                   </div>
                              </div>
                         </div>
@@ -54,28 +46,20 @@
                                   <div class="courses-thumb">
                                        <div class="courses-top">
                                             <div class="courses-image">
-                                                 <img src="./images/courses-image2.jpg" class="img-responsive" alt="">
+                                                 <img src="./images/1.webp" class="img-responsive" alt="">
                                             </div>
                                             <div class="courses-date">
-                                                 <span><i class="fa fa-calendar"></i> 20 / 7 / 2018</span>
-                                                 <span><i class="fa fa-clock-o"></i> 4.5 Hours</span>
+                                                 <span><i class="fa fa-calendar"></i> 20 / 7 / 2023</span>
+                                                 <span><i class="fa fa-clock-o"></i> 5 Years</span>
                                             </div>
                                        </div>
 
                                        <div class="courses-detail">
-                                            <h3><a href="#">Graphic & Web Design</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                            <h3><a href="#">1st standerd to 5th Standerds</a></h3>
+                                            <p>Age between 6 to 11</p>
                                        </div>
 
-                                       <div class="courses-info">
-                                            <div class="courses-author">
-                                                 <img src="./images/author-image2.jpg" class="img-responsive" alt="">
-                                                 <span>Jessica</span>
-                                            </div>
-                                            <div class="courses-price">
-                                                 <a href="#"><span>USD 80</span></a>
-                                            </div>
-                                       </div>
+                                       
                                   </div>
                              </div>
                         </div>
@@ -85,28 +69,20 @@
                                   <div class="courses-thumb">
                                        <div class="courses-top">
                                             <div class="courses-image">
-                                                 <img src="./images/courses-image3.jpg" class="img-responsive" alt="">
+                                                 <img src="./images/5.jpg" class="img-responsive" alt="">
                                             </div>
                                             <div class="courses-date">
-                                                 <span><i class="fa fa-calendar"></i> 15 / 8 / 2018</span>
-                                                 <span><i class="fa fa-clock-o"></i> 6 Hours</span>
+                                                 <span><i class="fa fa-calendar"></i> 15 / 8 / 2023</span>
+                                                 <span><i class="fa fa-clock-o"></i> 5 Years</span>
                                             </div>
                                        </div>
 
                                        <div class="courses-detail">
-                                            <h3><a href="#">Marketing Communication</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                            <h3><a href="#">5th standerd to 10th standerd</a></h3>
+                                            <p>Age between 11 to 16.</p>
                                        </div>
 
-                                       <div class="courses-info">
-                                            <div class="courses-author">
-                                                 <img src="./images/author-image3.jpg" class="img-responsive" alt="">
-                                                 <span>Catherine</span>
-                                            </div>
-                                            <div class="courses-price free">
-                                                 <a href="#"><span>Free</span></a>
-                                            </div>
-                                       </div>
+                                       
                                   </div>
                              </div>
                         </div>
@@ -116,61 +92,25 @@
                                   <div class="courses-thumb">
                                        <div class="courses-top">
                                             <div class="courses-image">
-                                                 <img src="./images/courses-image4.jpg" class="img-responsive" alt="">
+                                                 <img src="./images/10.jpg" class="img-responsive" alt="">
                                             </div>
                                             <div class="courses-date">
-                                                 <span><i class="fa fa-calendar"></i> 10 / 8 / 2018</span>
-                                                 <span><i class="fa fa-clock-o"></i> 8 Hours</span>
+                                                 <span><i class="fa fa-calendar"></i> 10 / 8 / 2023</span>
+                                                 <span><i class="fa fa-clock-o"></i> 2 years</span>
                                             </div>
                                        </div>
 
                                        <div class="courses-detail">
-                                            <h3><a href="#">Summer Kids</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                            <h3><a href="#">junior collage 11th and 12th</a></h3>
+                                            <p>Sepret courses like science , comerce , arts</p>
                                        </div>
 
-                                       <div class="courses-info">
-                                            <div class="courses-author">
-                                                 <img src="./images/author-image1.jpg" class="img-responsive" alt="">
-                                                 <span>Mark Wilson</span>
-                                            </div>
-                                            <div class="courses-price">
-                                                 <a href="#"><span>USD 45</span></a>
-                                            </div>
-                                       </div>
+                                     
                                   </div>
                              </div>
                         </div>
 
-                        <div class="col-md-4 col-sm-4">
-                             <div class="item">
-                                  <div class="courses-thumb">
-                                       <div class="courses-top">
-                                            <div class="courses-image">
-                                                 <img src="./images/courses-image5.jpg" class="img-responsive" alt="">
-                                            </div>
-                                            <div class="courses-date">
-                                                 <span><i class="fa fa-calendar"></i> 5 / 10 / 2018</span>
-                                                 <span><i class="fa fa-clock-o"></i> 10 Hours</span>
-                                            </div>
-                                       </div>
-
-                                       <div class="courses-detail">
-                                            <h3><a href="#">Business &amp; Management</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                       </div>
-
-                                       <div class="courses-info">
-                                            <div class="courses-author">
-                                                 <img src="./images/author-image2.jpg" class="img-responsive" alt="">
-                                                 <span>Jessica</span>
-                                            </div>
-                                            <div class="courses-price free">
-                                                 <a href="#"><span>Free</span></a>
-                                            </div>
-                                       </div>
-                                  </div>
-                             </div>
+                        
                         </div>
 
                    </div>

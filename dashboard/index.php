@@ -193,12 +193,12 @@
   }
 
 .f1{
-  width: 32%;
+  width: 23%;
   height: 80%;
 }
 
 .f2{
-  width: 66%;
+  width: 75%;
   height: 80%;
   border: none;
 }
