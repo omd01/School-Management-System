@@ -41,27 +41,27 @@
 
 * Home Screen
 
-![Screen Shot](Screenshots/home.png)
+![Screen Shot](Screenshots/home.jpeg)
 
 * About Screen
 
-![Screen Shot](Screenshots/about.png)
+![Screen Shot](Screenshots/about.jpeg)
 
 * Teachers Screen
 
-![Screen Shot](Screenshots/teachers.png)
+![Screen Shot](Screenshots/teachers.jpeg)
 
 * Courses Screen
 
-![Screen Shot](Screenshots/courses.png)
+![Screen Shot](Screenshots/courses.jpeg)
 
 * Reviews Screen
 
-![Screen Shot](Screenshots/reviews.png)
+![Screen Shot](Screenshots/reviews.jpeg)
 
 * Contact Screen
 
-![Screen Shot](Screenshots/contact.png)
+![Screen Shot](Screenshots/contact.jpeg)
 
 
 
