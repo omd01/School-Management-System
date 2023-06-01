@@ -144,8 +144,10 @@ git clone https://github.com/omd01/School-Management-System.git
 ## Usage
 
 - Open a web browser and navigate to the URL of your web server.
-- Register a new account or log in to an existing account.
-- Browse the coffee menu, add items to the cart, and place orders.(http://localhost/School-Management-System)
+
+- Admins can log into the Admin Dashboard
+
+- Admin can add students, teachers, books etc 
 
 - Admin User Name : admin
 - Admin Password  : admin
