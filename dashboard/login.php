@@ -44,17 +44,17 @@ else {
   </head>
 
   <body class="text-center" >
-    <form class="form-signin" method="POST">
+    <form class="form-signin shadow py-5" method="POST">
       <h1 class="h3 mb-3 font-weight-normal">Admin Log-in</h1>
-
-      <label for="inputEmail" class="sr-only" name="user_id" >User Id</label>
+<diV class="text-start">
+      <label for="inputEmail" class="sr-only" name="user_id" >User id</label>
       <input type="text" id="inputEmail" name="user_id"  class="form-control" placeholder="Email address" required="" autofocus="">
 
-      <label for="inputPassword" class="sr-only">Password</label>
+      <label for="inputPassword" class="sr-only mt-3 ">Password</label>
       <input type="password" id="inputPassword" name="password" class="form-control" placeholder="Password" required="">
-
-      <button class="btn btn-lg btn-primary btn-block" name="login" type="submit">Log In</button>
-      <p class="mt-5 mb-3 text-muted">Only Admin Can Access</p>
+</diV>
+      <button class="btn btn-lg btn-primary btn-block my-2" name="login" type="submit">Log In</button>
+      <p class=" text-muted">Only Admin Can Access</p>
     </form>
   
 </body></html>

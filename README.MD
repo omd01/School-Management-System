@@ -64,6 +64,31 @@
 ![Screen Shot](Screenshots/contact.jpeg)
 
 
+* Admin Login Screen
+
+![Screen Shot](Screenshots/Admin/login.jpeg)
+
+* Admin Dashboard Screen
+
+![Screen Shot](Screenshots/Admin/dashboard.jpeg)
+
+* Admin Add New Student Screen
+
+![Screen Shot](Screenshots/Admin/add_new_student.jpeg)
+
+* Admin List Students Screen
+
+![Screen Shot](Screenshots/Admin/list_students.jpeg)
+
+* Admin Add New Teacher Screen
+
+![Screen Shot](Screenshots/Admin/add_new_teacher.jpeg)
+
+* Admin Form Data Screen
+
+![Screen Shot](Screenshots/Admin/form_data.jpeg)
+
+
 
 The School Management System is a PHP-based website designed to efficiently store and manage records of school students, teachers, and the library. It offers a user-friendly interface that simplifies the process of storing and accessing vital information. In addition to record-keeping, the website also provides a contact form that allows users to send messages easily.
 

@@ -176,8 +176,8 @@
   </div>
 
   <div class="column my-4 w-100 h-100">
-  <iframe class="f1 shadow" src="http://localhost/school" title="description"></iframe>
-  <iframe  class="f2 shadow" src="http://localhost/school" title="description"></iframe>
+  <iframe class="f1 shadow" src="http://localhost/School-Management-System" title="description"></iframe>
+  <iframe  class="f2 shadow" src="http://localhost/School-Management-System" title="description"></iframe>
   </div>
 
  
